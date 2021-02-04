@@ -37,3 +37,4 @@ jobs:
           chmod +x test.sh
           ./test.sh
           curl ipinfo.io/ip
+          sleep 1200s
